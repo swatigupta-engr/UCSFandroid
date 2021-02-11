@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UCSF App </string>
+    <string name="audioKey">AudioKey</string>
+    <string name="versionupdate">Android App Version Check</string>
+    <string name="youAreNotUpdatedTitle">Update Available</string>
+    <string name="youAreNotUpdatedMessage">A new version of YOUR_APP_NAME is available. Please update to version\s</string>
+    <string name="youAreNotUpdatedMessage1">\s now</string>
+    <string name="update">Update</string>
+    <string name="internet_connectivity">Please connect to the Internet for updated information</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="disabled">Currently Disabled</string>
+
+</resources>

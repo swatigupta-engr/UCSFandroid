@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772007021847",
+    "project_id": "ucsf-iiitd",
+    "storage_bucket": "ucsf-iiitd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772007021847:android:1be24fa8df0a31c2b57b52",
+        "android_client_info": {
+          "package_name": "com.iiitd.ucsf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772007021847-u6upvsftad49i7qkdhdm4o2j5k6114oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8gcZI9IEnQLvDqjuJpSsKLhtZuhvD2hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772007021847-u6upvsftad49i7qkdhdm4o2j5k6114oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
