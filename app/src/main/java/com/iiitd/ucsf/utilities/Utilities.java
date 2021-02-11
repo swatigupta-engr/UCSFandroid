@@ -25,6 +25,7 @@ public static void saveDataToList(Data saveddata,Context c){
         { dataArrayList = new ArrayList<>();}
         dataArrayList.add(saveddata);
         saveListOfdata(dataArrayList,c);
+        //
         }
     public static ArrayList<Data> getListOfdata(Context c){
 
